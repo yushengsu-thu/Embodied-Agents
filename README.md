@@ -6,6 +6,7 @@ This is a curated list of "Embodied Agents" research. Read this repository for t
   
 
 ## Reading List
+- [Reasoning with Language Model is Planning with World Mode](https://arxiv.org/pdf/2305.14992.pdf)
 
 
 ## Open Source Project
