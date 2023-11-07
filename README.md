@@ -15,3 +15,8 @@ This is a curated list of "Embodied Agents" research. Read this repository for t
 
 
 ## Furthure Direction
+
+### Evaluation Metric - To Do
+- [Ragas: RAG evaluation metric](https://docs.ragas.io/en/latest/concepts/index.html)
+- [VALUE FUNCTION SPACES: SKILL-CENTRIC STATE ABSTRACTIONS FOR LONG-HORIZON REASONING](https://arxiv.org/pdf/2111.03189.pdf)
+- [Do As I Can, Not As I Say](https://say-can.github.io/)
